@@ -6,4 +6,3 @@
 
 - 📫 How to reach me **tuncayclkknt@gmail.com**
 
-![snake gif](https://github.com/tuncayclkknt/tuncayclkknt/blob/output/github-contribution-grid-snake.gif)
