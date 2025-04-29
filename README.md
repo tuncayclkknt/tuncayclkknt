@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Tuncay</h1>
-<h3 align="center">I'm a software engineering student in Erciyes University and i develop softwares to learn.</h3>
+<h1 align="center">Hello 👋, I'm Tuncay</h1>
+<h3 align="center">I'm a software developer with a focus on mobile development, backend systems, and cybersecurity.</h3>
 
-- 🌱 I’m currently learning **C#**, **Kotlin**
-- ☁️ I'm interested in **Web Development** and **Android Development**
-- ⭐ I try to use **Java**, **Python**
+- 🌱 Proficient in Java, with strong experience in building Android applications using Java and Kotlin.
+
+- 🌱 Developing backend services and APIs using ASP.NET Core.
+
+- 🌱 Comfortable with Python at a basic level, mainly for scripting and automation tasks.
+
+- 🌱 Passionate about cybersecurity, especially - reverse engineering and analyzing application behavior at a low level.
+
+- ⭐ Always eager to learn, experiment, and contribute to open-source projects.
+
 
 - 📫 How to reach me **tuncayclkknt@gmail.com**
 
